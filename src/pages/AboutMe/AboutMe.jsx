@@ -1,5 +1,4 @@
 import profilePicture from '../../icons/profiles/profilePicture.jpg';
-
 import { Button, NavItem } from '../../utils/commonStyles';
 import {
   Box,
@@ -49,10 +48,10 @@ const AboutMe = () => {
               </Text>
           </TextBox>
 
-          <NavItem to="/projects" key={'projects'}>
+          <NavItem to="/contact" key={'projects'}>
             {' '}
             <Button>
-              Projects
+              Contact me
               {' '}
             </Button>
           </NavItem>
