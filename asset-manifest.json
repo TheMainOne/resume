@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.c085050f.css",
+    "main.js": "/resume/static/js/main.e8502a1e.js",
+    "static/js/506.560d87d9.chunk.js": "/resume/static/js/506.560d87d9.chunk.js",
+    "static/js/217.743a364e.chunk.js": "/resume/static/js/217.743a364e.chunk.js",
+    "static/js/566.3287f828.chunk.js": "/resume/static/js/566.3287f828.chunk.js",
+    "static/js/263.5f3cb71e.chunk.js": "/resume/static/js/263.5f3cb71e.chunk.js",
+    "static/js/402.2e6b7bbe.chunk.js": "/resume/static/js/402.2e6b7bbe.chunk.js",
+    "static/js/511.3781cef6.chunk.js": "/resume/static/js/511.3781cef6.chunk.js",
+    "static/media/imagefinderImg.jpg": "/resume/static/media/imagefinderImg.890b588ceb61c36057ff.jpg",
+    "static/media/webStudioImg.jpg": "/resume/static/media/webStudioImg.1b835a7074b92eb79159.jpg",
+    "static/media/filmotekaImg.jpg": "/resume/static/media/filmotekaImg.862520f7b96b7f8c65c2.jpg",
+    "static/media/hero_colorEdited.jpg": "/resume/static/media/hero_colorEdited.ae79a358eda87883b5f4.jpg",
+    "static/media/pngwing.com.png": "/resume/static/media/pngwing.com.fb63cde2dcf846c28502.png",
+    "static/media/petlyImg.jpg": "/resume/static/media/petlyImg.c50cf2f4ed0c044355ed.jpg",
+    "static/media/iceCreamImg.jpg": "/resume/static/media/iceCreamImg.f5fe08d9e1cf8235d12e.jpg",
+    "static/media/phonebookImg.jpg": "/resume/static/media/phonebookImg.1b5bb5d884aa2d82e5bf.jpg",
+    "static/media/profilePicture.jpg": "/resume/static/media/profilePicture.44abbb228c5ec4231dab.jpg",
+    "static/media/todoListImg.jpg": "/resume/static/media/todoListImg.c831d1d4a60c8a54cb85.jpg",
+    "static/media/not-found-error-min.jpg": "/resume/static/media/not-found-error-min.1ba6cc0ad4771c4be078.jpg",
+    "static/media/android.png": "/resume/static/media/android.0c2e509e873632c6609c.png",
+    "static/media/testFlight.png": "/resume/static/media/testFlight.99d4ce0e7a092f313884.png",
+    "static/media/xCode.png": "/resume/static/media/xCode.b282b104775fb4917830.png",
+    "static/media/browserStack.png": "/resume/static/media/browserStack.57e3d1fd62d35965db12.png",
+    "index.html": "/resume/index.html",
+    "main.c085050f.css.map": "/resume/static/css/main.c085050f.css.map",
+    "main.e8502a1e.js.map": "/resume/static/js/main.e8502a1e.js.map",
+    "506.560d87d9.chunk.js.map": "/resume/static/js/506.560d87d9.chunk.js.map",
+    "217.743a364e.chunk.js.map": "/resume/static/js/217.743a364e.chunk.js.map",
+    "566.3287f828.chunk.js.map": "/resume/static/js/566.3287f828.chunk.js.map",
+    "263.5f3cb71e.chunk.js.map": "/resume/static/js/263.5f3cb71e.chunk.js.map",
+    "402.2e6b7bbe.chunk.js.map": "/resume/static/js/402.2e6b7bbe.chunk.js.map",
+    "511.3781cef6.chunk.js.map": "/resume/static/js/511.3781cef6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c085050f.css",
+    "static/js/main.e8502a1e.js"
+  ]
+}
