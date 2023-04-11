@@ -9,12 +9,24 @@ align-items: center;
 gap: 30px;
 margin: 20px 0;
 
+
   @media (max-width: 840px) {
     flex-direction: column-reverse;
     text-align: center;
   
   }
 `
+
+export const TextWrapper = styled.div`
+
+
+  @media (max-width: 1023px) {
+    padding-bottom: 15px;
+  
+  }
+`
+
+
 export const Container = styled.div`
 margin-bottom: 20px;
 
@@ -55,11 +67,13 @@ export const SubTitle = styled.h2`
 export const Text = styled.p`
     font-weight: 500;
     font-size: 18px;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
+    
     color: ${greyTextColor};
   
   @media (min-width: 840px) { 
       font-size: 18px;
+      margin-bottom: 60px;
     }
 
     @media (min-width: 1200px) {

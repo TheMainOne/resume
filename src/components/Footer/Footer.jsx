@@ -6,7 +6,7 @@ const Footer = () => {
     <>
         <FooterStyles> 
            <Text> 2023 All Rights Reserved | Developed with &#10084; by </Text>
-           <LinkText href="https://github.com/TheMainOne">Maksym Lvov</LinkText>
+           <LinkText href="https://github.com/TheMainOne" target="	_blank" rel="noopener noreferrer">Maksym Lvov</LinkText>
             </FooterStyles>
     </>)
 }

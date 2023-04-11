@@ -9,7 +9,6 @@ import {
   TitleText,
   Text,
 } from './AboutMe.styled';
-import { IoCaretForward } from 'react-icons/io5';
 import TechSkills from '../../components/TechSkills/TechSkills';
 
 const AboutMe = () => {
@@ -54,7 +53,7 @@ const AboutMe = () => {
             {' '}
             <Button>
               Projects
-              <IoCaretForward />{' '}
+              {' '}
             </Button>
           </NavItem>
         </RightBox>
