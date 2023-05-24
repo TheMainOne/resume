@@ -53,7 +53,7 @@ margin-bottom: 10px;
 font-size: 18px;
 color: ${greyTextColor};
 
-&:first-child {
+&:first-of-type {
   margin-top: 20px;
 }
 

@@ -16,7 +16,7 @@ const ContactMe = () => {
   return (
     <ContainerWrapper>
       <FirstBox>
-        <img src={contactImage} alt="Bug searching" />
+        <img src={contactImage} alt="Bug searching"/>
       </FirstBox>
       <SecondBox>
         <ContainerTitle>Please fell free to contact me:</ContainerTitle>
